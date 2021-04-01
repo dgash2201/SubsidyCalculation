@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarsTask3", "BarsTask3\BarsTask3.csproj", "{69A1467C-9CF2-4802-937A-C56DB7D09FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A1467C-9CF2-4802-937A-C56DB7D09FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A1467C-9CF2-4802-937A-C56DB7D09FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A1467C-9CF2-4802-937A-C56DB7D09FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A1467C-9CF2-4802-937A-C56DB7D09FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684307CF-711B-42B4-9234-9B5D72AB08EF}
+	EndGlobalSection
+EndGlobal
